@@ -1,0 +1,54 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Jan 25 17:11:46 2022
+[*]
+[dumpfile] "/mnt/e/YEAR #02/Sem 04/CO224  Computer Architecture/Week 10/cpu_wavedata.vcd"
+[dumpfile_mtime] "Tue Jan 25 17:07:50 2022"
+[dumpfile_size] 11494
+[savefile] "/mnt/e/YEAR #02/Sem 04/CO224  Computer Architecture/Week 10/cpuold.gtkw"
+[timestart] 0
+[size] 1910 1009
+[pos] -1 -1
+*-4.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[treeopen] cpu_tb.mycpu.
+[sst_width] 236
+[signals_width] 183
+[sst_expanded] 1
+[sst_vpaned_height] 282
+@28
+cpu_tb.mycpu.CLK
+cpu_tb.mycpu.RESET
+@22
+cpu_tb.mycpu.PC[31:0]
+cpu_tb.mycpu.INSTRUCTION[31:0]
+cpu_tb.mycpu.add.PC_OUT[31:0]
+@28
+cpu_tb.mycpu.READREG1[2:0]
+cpu_tb.mycpu.READREG2[2:0]
+@22
+cpu_tb.mycpu.OUT1[7:0]
+cpu_tb.mycpu.OUT2[7:0]
+cpu_tb.mycpu.NEG[7:0]
+@28
+cpu_tb.mycpu.MUX1SELECT
+cpu_tb.mycpu.MUX2SELECT
+@22
+cpu_tb.mycpu.MUX1OUT[7:0]
+cpu_tb.mycpu.MUX2OUT[7:0]
+cpu_tb.mycpu.OPCODE[7:0]
+@28
+cpu_tb.mycpu.ALUOP[2:0]
+@22
+cpu_tb.mycpu.ALURESULT[7:0]
+cpu_tb.mycpu.register.\register[0][7:0]
+cpu_tb.mycpu.register.\register[1][7:0]
+cpu_tb.mycpu.register.\register[2][7:0]
+cpu_tb.mycpu.register.\register[3][7:0]
+cpu_tb.mycpu.register.\register[4][7:0]
+cpu_tb.mycpu.register.\register[5][7:0]
+cpu_tb.mycpu.register.\register[6][7:0]
+@23
+cpu_tb.mycpu.register.\register[7][7:0]
+[pattern_trace] 1
+[pattern_trace] 0

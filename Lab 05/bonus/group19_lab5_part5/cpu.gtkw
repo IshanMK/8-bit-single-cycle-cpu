@@ -1,0 +1,54 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Feb  9 04:18:33 2022
+[*]
+[dumpfile] "/mnt/e/YEAR #02/Sem 04/CO224  Computer Architecture/Labs/Lab 05/bonus/group19_lab5_part5/cpu_wavedata.vcd"
+[dumpfile_mtime] "Wed Feb  9 04:17:29 2022"
+[dumpfile_size] 61302
+[savefile] "/mnt/e/YEAR #02/Sem 04/CO224  Computer Architecture/Labs/Lab 05/bonus/group19_lab5_part5/cpu.gtkw"
+[timestart] 0
+[size] 1910 920
+[pos] 0 20
+*-4.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[treeopen] cpu_tb.mycpu.
+[treeopen] cpu_tb.mycpu.alu.
+[sst_width] 230
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 274
+@420
+cpu_tb.CLK
+@28
+cpu_tb.mycpu.RESET
+@420
+[color] 5
+cpu_tb.PC[31:0]
+[color] 5
+cpu_tb.mycpu.beqadder.temp[31:0]
+@22
+[color] 6
+cpu_tb.INSTRUCTION[31:0]
+@420
+cpu_tb.mycpu.register.OUT1[7:0]
+cpu_tb.mycpu.register.OUT2[7:0]
+@28
+cpu_tb.mycpu.cu.SHIFT_TYPE
+cpu_tb.mycpu.alu.resultShift[7:0]
+@22
+[color] 4
+cpu_tb.mycpu.OPCODE[7:0]
+@28
+cpu_tb.mycpu.cu.ALUOP[2:0]
+@22
+cpu_tb.mycpu.register.\register[0][7:0]
+cpu_tb.mycpu.register.\register[1][7:0]
+cpu_tb.mycpu.register.\register[2][7:0]
+cpu_tb.mycpu.register.\register[3][7:0]
+@420
+cpu_tb.mycpu.register.\register[4][7:0]
+cpu_tb.mycpu.register.\register[5][7:0]
+cpu_tb.mycpu.register.\register[6][7:0]
+cpu_tb.mycpu.register.\register[7][7:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,79 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Feb  7 13:56:55 2022
+[*]
+[dumpfile] "/mnt/e/YEAR #02/Sem 04/CO224  Computer Architecture/Labs/Lab 05/cpu_wavedata.vcd"
+[dumpfile_mtime] "Mon Feb  7 13:06:22 2022"
+[dumpfile_size] 30846
+[savefile] "/mnt/e/YEAR #02/Sem 04/CO224  Computer Architecture/Labs/Lab 05/cpu.gtkw"
+[timestart] 0
+[size] 1910 920
+[pos] 0 20
+*-4.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cpu_tb.
+[treeopen] cpu_tb.mycpu.
+[sst_width] 230
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 274
+@420
+cpu_tb.CLK
+@28
+cpu_tb.mycpu.RESET
+cpu_tb.mycpu.WRITE_ENABLE
+@22
+[color] 6
+cpu_tb.INSTRUCTION[31:0]
+@420
+[color] 5
+cpu_tb.PC[31:0]
+[color] 5
+cpu_tb.mycpu.beqadder.temp[31:0]
+[color] 5
+cpu_tb.mycpu.beqadder.TARGET_ADDRESS[31:0]
+[color] 4
+cpu_tb.mycpu.OFFSET[7:0]
+@c00022
+[color] 4
+cpu_tb.mycpu.IMMEDIATE[7:0]
+@28
+(0)cpu_tb.mycpu.IMMEDIATE[7:0]
+(1)cpu_tb.mycpu.IMMEDIATE[7:0]
+(2)cpu_tb.mycpu.IMMEDIATE[7:0]
+(3)cpu_tb.mycpu.IMMEDIATE[7:0]
+(4)cpu_tb.mycpu.IMMEDIATE[7:0]
+(5)cpu_tb.mycpu.IMMEDIATE[7:0]
+(6)cpu_tb.mycpu.IMMEDIATE[7:0]
+(7)cpu_tb.mycpu.IMMEDIATE[7:0]
+@1401200
+-group_end
+@420
+[color] 4
+cpu_tb.mycpu.NEG[7:0]
+@22
+[color] 4
+cpu_tb.mycpu.OPCODE[7:0]
+@420
+cpu_tb.mycpu.READREG1[2:0]
+cpu_tb.mycpu.READREG2[2:0]
+cpu_tb.mycpu.WRITEREG[2:0]
+cpu_tb.mycpu.register.IN[7:0]
+cpu_tb.mycpu.register.OUT1[7:0]
+cpu_tb.mycpu.register.OUT2[7:0]
+cpu_tb.mycpu.ALUOP[2:0]
+@28
+[color] 3
+cpu_tb.mycpu.ZERO
+cpu_tb.mycpu.BRANCH_SELECT
+cpu_tb.mycpu.BRANCH_ENABLE
+@420
+cpu_tb.mycpu.register.\register[0][7:0]
+cpu_tb.mycpu.register.\register[1][7:0]
+cpu_tb.mycpu.register.\register[2][7:0]
+cpu_tb.mycpu.register.\register[3][7:0]
+cpu_tb.mycpu.register.\register[4][7:0]
+cpu_tb.mycpu.register.\register[5][7:0]
+cpu_tb.mycpu.register.\register[6][7:0]
+cpu_tb.mycpu.register.\register[7][7:0]
+[pattern_trace] 1
+[pattern_trace] 0
